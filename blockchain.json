@@ -1,0 +1,26 @@
+[
+    {
+        "index": 1,
+        "transactions": [
+            {
+                "sender": "nandini",
+                "receiver": "nan",
+                "amount": 100
+            }
+        ],
+        "previous_hash": "0",
+        "hash": "1"
+    },
+    {
+        "index": 2,
+        "transactions": [
+            {
+                "sender": "nandini",
+                "receiver": "nandini",
+                "amount": 100
+            }
+        ],
+        "previous_hash": "1",
+        "hash": "2"
+    }
+]
